@@ -10,7 +10,7 @@
 </head>
 <body>
 <section class="menu">
-    <a href="./Foodie_At_Home.html">Home</a>
+    <a href="./index.html">Home</a>
     <a href="first.php">About us</a>
 </section>
 <div class="recipe">
