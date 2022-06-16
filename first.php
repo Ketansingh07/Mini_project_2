@@ -15,7 +15,7 @@
         <a href="#" class="brand">KRANGBAX!</a>
         <div class="menu-btn"></div>
         <div class="navbar">
-            <a class="active" href="./Foodie_At_Home.html">Home</a>
+            <a class="active" href="./index.html">Home</a>
             <a href="../Ketan%20Singh's%20Resume.pdf">Resume</a><br>
           </div>
     </header>
@@ -132,6 +132,7 @@
             </div>
             <div class="row">
                 <div class="contact-form ">
+                    <form action="mailto:ketan2001singh@gmail.com" method="post" enctype="text/plain">
                     <h3>Send Message</h3>
                     <h4>Hii,How can i help You?<br>
                         Please Send Me Some Details
@@ -152,7 +153,7 @@
                     <div class="input-box">
                         <input type="submit" class="send-btn" name="" value="Send">
                     </div>
-
+                    </form>
                 </div>
             </div>
         </div>
